@@ -1,0 +1,169 @@
+Total number of packets across all files: 2128
+
+Results for file1.pcap:
+
+Total number of packets: 43
+
+Distinct Source IP Addresses:
+145.254.160.237: 19 packets
+65.208.228.223: 18 packets
+216.239.59.99: 4 packets
+
+Distinct Destination TCP Ports:
+Port 80: 19 packets
+Port 3372: 18 packets
+Port 3371: 4 packets
+
+Distinct Source IP and Destination TCP Port Pairs:
+145.254.160.237 -> Port 80: 19 packets
+65.208.228.223 -> Port 3372: 18 packets
+216.239.59.99 -> Port 3371: 4 packets
+
+=============================================
+
+Results for file2.pcap:
+
+Total number of packets: 1944
+
+Distinct Source IP Addresses:
+192.168.1.121: 413 packets
+188.225.38.247: 343 packets
+194.87.110.230: 90 packets
+217.20.116.142: 50 packets
+204.79.197.200: 35 packets
+72.21.81.200: 26 packets
+172.217.0.238: 24 packets
+172.217.0.227: 11 packets
+168.143.243.230: 5 packets
+193.124.93.220: 3 packets
+
+Distinct Destination TCP Ports:
+Port 49163: 266 packets
+Port 80: 212 packets
+Port 443: 201 packets
+Port 49160: 74 packets
+Port 49171: 25 packets
+Port 49170: 14 packets
+Port 49169: 12 packets
+Port 49189: 11 packets
+Port 49165: 9 packets
+Port 49168: 9 packets
+Port 49172: 9 packets
+Port 49175: 9 packets
+Port 49177: 9 packets
+Port 49182: 9 packets
+Port 49183: 9 packets
+Port 49190: 9 packets
+Port 49193: 9 packets
+Port 49197: 9 packets
+Port 49200: 9 packets
+Port 49162: 5 packets
+Port 49167: 5 packets
+Port 49166: 5 packets
+Port 49176: 5 packets
+Port 49178: 5 packets
+Port 49184: 5 packets
+Port 49185: 5 packets
+Port 49192: 5 packets
+Port 49191: 5 packets
+Port 49198: 5 packets
+Port 49199: 5 packets
+Port 49159: 3 packets
+Port 49161: 3 packets
+Port 49164: 2 packets
+Port 49173: 2 packets
+Port 49174: 2 packets
+Port 49179: 2 packets
+Port 49180: 2 packets
+Port 49181: 2 packets
+Port 49186: 2 packets
+Port 49187: 2 packets
+Port 49188: 2 packets
+Port 49194: 2 packets
+Port 49195: 2 packets
+Port 49196: 1 packets
+Port 49201: 1 packets
+Port 49202: 1 packets
+
+Distinct Source IP and Destination TCP Port Pairs:
+188.225.38.247 -> Port 49163: 266 packets
+192.168.1.121 -> Port 80: 212 packets
+192.168.1.121 -> Port 443: 201 packets
+188.225.38.247 -> Port 49160: 74 packets
+204.79.197.200 -> Port 49171: 25 packets
+72.21.81.200 -> Port 49170: 14 packets
+72.21.81.200 -> Port 49169: 12 packets
+172.217.0.227 -> Port 49189: 11 packets
+194.87.110.230 -> Port 49165: 9 packets
+194.87.110.230 -> Port 49168: 9 packets
+204.79.197.200 -> Port 49172: 9 packets
+194.87.110.230 -> Port 49175: 9 packets
+194.87.110.230 -> Port 49177: 9 packets
+194.87.110.230 -> Port 49182: 9 packets
+194.87.110.230 -> Port 49183: 9 packets
+194.87.110.230 -> Port 49190: 9 packets
+194.87.110.230 -> Port 49193: 9 packets
+194.87.110.230 -> Port 49197: 9 packets
+194.87.110.230 -> Port 49200: 9 packets
+168.143.243.230 -> Port 49162: 5 packets
+217.20.116.142 -> Port 49167: 5 packets
+217.20.116.142 -> Port 49166: 5 packets
+217.20.116.142 -> Port 49176: 5 packets
+217.20.116.142 -> Port 49178: 5 packets
+217.20.116.142 -> Port 49184: 5 packets
+217.20.116.142 -> Port 49185: 5 packets
+217.20.116.142 -> Port 49192: 5 packets
+217.20.116.142 -> Port 49191: 5 packets
+217.20.116.142 -> Port 49198: 5 packets
+217.20.116.142 -> Port 49199: 5 packets
+193.124.93.220 -> Port 49159: 3 packets
+188.225.38.247 -> Port 49161: 3 packets
+172.217.0.238 -> Port 49164: 2 packets
+172.217.0.238 -> Port 49173: 2 packets
+172.217.0.238 -> Port 49174: 2 packets
+172.217.0.238 -> Port 49179: 2 packets
+172.217.0.238 -> Port 49180: 2 packets
+172.217.0.238 -> Port 49181: 2 packets
+172.217.0.238 -> Port 49186: 2 packets
+172.217.0.238 -> Port 49187: 2 packets
+172.217.0.238 -> Port 49188: 2 packets
+172.217.0.238 -> Port 49194: 2 packets
+172.217.0.238 -> Port 49195: 2 packets
+172.217.0.238 -> Port 49196: 1 packets
+204.79.197.200 -> Port 49201: 1 packets
+172.217.0.238 -> Port 49202: 1 packets
+
+=============================================
+
+Results for file3.pcap:
+
+Total number of packets: 141
+
+Distinct Source IP Addresses:
+172.16.11.12: 50 packets
+216.34.181.45: 33 packets
+96.17.211.172: 19 packets
+74.125.19.17: 4 packets
+
+Distinct Destination TCP Ports:
+Port 80: 45 packets
+Port 64581: 33 packets
+Port 64584: 6 packets
+Port 443: 5 packets
+Port 64583: 5 packets
+Port 64565: 4 packets
+Port 64582: 4 packets
+Port 64585: 4 packets
+
+Distinct Source IP and Destination TCP Port Pairs:
+172.16.11.12 -> Port 80: 45 packets
+216.34.181.45 -> Port 64581: 33 packets
+96.17.211.172 -> Port 64584: 6 packets
+172.16.11.12 -> Port 443: 5 packets
+96.17.211.172 -> Port 64583: 5 packets
+74.125.19.17 -> Port 64565: 4 packets
+96.17.211.172 -> Port 64582: 4 packets
+96.17.211.172 -> Port 64585: 4 packets
+
+=============================================
+
