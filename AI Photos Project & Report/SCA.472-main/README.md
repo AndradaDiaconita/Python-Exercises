@@ -1,12 +1,4 @@
-# SCA.472
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-#             SmartClass A.I.ssistant Project - COMP 472 Section AK-X        -
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-              Team member #1: Elise Proulx      - 40125538                 -
-              Team member #2: Ardalan Jamshidi  - 27079265                 -
-              Team member #3: Andrada Diaconita - 40245789                 -
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- GitHub Repository Link: https://github.com/baelise/SCA.472.git
+
 # 1) dataset.zip: 
   contains all images in the new data set. These images have been collected from public datasets from various sources. Please reference the attached report (report.pdf) in this GitHub repository. 
 # 2) dataset_clean.py: 
